@@ -2,6 +2,9 @@
 
 # Image-Handling-and-Pixel-Transformations-Using-OpenCV 
 
+## NAME: Vaideeshwaran G
+## REG NO: 212225240178
+
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
 
